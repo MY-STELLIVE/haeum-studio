@@ -1,6 +1,6 @@
 {
   "project": "HAEUM STUDIO",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "asOf": "2026-11-14",
   "profile": {
     "name": "뭐해음",
@@ -9,7 +9,8 @@
     "fandom": "토토단",
     "chzzkFollowers": 127,
     "xFollowers": 212,
-    "avatarDescription": "파란색 긴 머리, 고양이 귀, 파란 눈, 노란 후드 이미지 설정"
+    "avatarDescription": "파란색 긴 머리, 고양이 귀, 파란 눈, 노란 후드 이미지 설정",
+    "image": "assets/images/profile/haeum-profile.png"
   },
   "statistics": {
     "broadcastSessions": 22,
@@ -25,6 +26,7 @@
   "notes": [
     "기존 대화 및 해음위키 정리 기록을 바탕으로 구성한 초기 데이터",
     "실시간 치지직 연동 미구현",
-    "개별 방송 세션 데이터는 추후 입력 필요"
+    "개별 방송 세션 데이터는 추후 입력 필요",
+    "사용자가 제공한 해음 캐릭터 이미지를 프로필 이미지로 적용"
   ]
 }
