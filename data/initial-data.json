@@ -1,0 +1,30 @@
+{
+  "project": "HAEUM STUDIO",
+  "version": "1.0.0",
+  "asOf": "2026-11-14",
+  "profile": {
+    "name": "뭐해음",
+    "platform": "치지직",
+    "firstBroadcast": "2026-10-21",
+    "fandom": "토토단",
+    "chzzkFollowers": 127,
+    "xFollowers": 212,
+    "avatarDescription": "파란색 긴 머리, 고양이 귀, 파란 눈, 노란 후드 이미지 설정"
+  },
+  "statistics": {
+    "broadcastSessions": 22,
+    "totalHours": 63.7,
+    "peakConcurrentViewers": 20,
+    "peakAverageViewers": 15
+  },
+  "social": {
+    "xPosts": 64,
+    "xFollowers": 212,
+    "xFollowing": 49
+  },
+  "notes": [
+    "기존 대화 및 해음위키 정리 기록을 바탕으로 구성한 초기 데이터",
+    "실시간 치지직 연동 미구현",
+    "개별 방송 세션 데이터는 추후 입력 필요"
+  ]
+}
